@@ -1,0 +1,6 @@
+Touch Designer Selection 3: Waterfall effect by feedback loops, Comp and Tile TOPs
+I created a motion pattern that looks like a colorful waterfall pouring down in TouchDesigner. 
+I built this by using a descending feedback loop, comp and tile TOPs. 
+In this network code, I use Comp TOP is node “Over” to link with the Feedback, add a node displacement to support the image move, create "drift down" effect, then insert Transform TOP in the middle help create a slow downward motion effect.
+After that, put all back into Feedback, create the loops, adjust the scale down to create a descending feedback loop and I got a layered, shrinking image that loops back and builds on itself frame by frame. 
+One thing I like about this network is how the colors swirl and flow, it look similar to ink art in a digital version. Each "drip" falls that look like a splash of watercolor spreading across a canvas, gradually blending into this vibrant piece of art, giving a feeling of mystical and visual magnetism about how the colors evolve.
