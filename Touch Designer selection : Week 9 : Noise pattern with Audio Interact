@@ -1,0 +1,9 @@
+Touch Designer selection : Week 9 : Noise pattern with Audio Interact
+This is a code using audio to control the movement of the design pattern that I made in Touch Designer. 
+It was my first time using sound to interact with shapes and patterns.
+To create this, I combine 3 skills that I’ve learned is Noise, feedback loop and Audio CHOPs.
+I use Noise as the main movement pattern, and put it into a feedback loop for smoother motion and use Audio to control the movement based on the sound’s frequencies. 
+To make the sound interact with the Noise, I used an Audio File in to create the background sound, then used Audio Spectrum to convert the audio signal into different high and low frequencies, which allows to separate the parts of the sound into different layers.
+Then use Math to adjust the amplitude of the sound, connect it back to the Noise and this will make the audio frequency in Math let the beat itself control the motion's intensity.
+And I got a Noise pattern that dances with the sound. What I like about this code is how the color seems to harmonies with the rhythm.
+The feedback loop smooths out everything, moving feel endless and hypnotic, almost like the visual is pulsing in and out of another dimension
