@@ -1,0 +1,6 @@
+Code Selection 3: Layered glass pattern by random
+I chose this code because of its color and vibrancy, and this is actually one of my starting structured codes to create generative art.
+In this code, I used randomness to create random color, position, and size, making it a messy, layered composition that feels conscious and artistic. 
+I used basic geometry functions to circles, squares, and rectangles, all in randomised sizes. The circle ranges from 20 to 100, squares are up to 200, and rectangles with width between 100–350 and height between 50–150. Every shape will be drawn with its color in a new random position all over the canvas, so they overlap and interact visually like colorful cut-out paper shapes.
+The shapes build on top of each other and create patterns that feel both chaotic and beautifully abstract, like each frame is its artwork.
+I think among the coding skills I learned in OpenProcessing, this is the easiest skill to apply and can be combined with more difficult skills like Noise to create even more beautiful pattern designs.
