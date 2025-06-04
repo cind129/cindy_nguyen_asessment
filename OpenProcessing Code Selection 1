@@ -1,0 +1,6 @@
+Selection 1: Rippling water effect by Noise
+I chose this code project because it is the first lesson that I learned about Perlin Noise and how to use it to create something that is creative. 
+Although the process was a bit difficult to write the code, I really enjoyed with the result. I have created a series of circles that are gradually bigger with alternating blue and white colors.
+These circle looks like ripples on the surface when water drops, and they are meant to vibrate gently to make the effect of water ripples.
+To make that, I use For() loop to draw each circle, gradually decreasing its size, then call Noise function and apply it to the radius, to give the circle itself a subtle movement, creating a slight oscillation for each circle over time. The result is a calm, wave-like animation. The rings move together in a smooth, harmonious way, just like soft ripples spreading out on water.
+While the results were pretty good, I found that I still needed to learn and develop to use Noise more skillfully, and learn how to combine it with the skills I learned in the process to create something more dynamic and complex generative art.
