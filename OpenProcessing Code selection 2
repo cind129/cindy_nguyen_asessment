@@ -1,0 +1,6 @@
+Code Selection 2: Bubbles circle pattern by loops
+In this code lesson, I learned how to use loops to create creative patterns, and I chose this code because I like the chaotic but pretty pattern shape that overlaps every time I click to rerun the code.
+The pattern looks like clusters of colored bubbles floating and bouncing around, giving a vibrant and dynamic feeling that bubble balls are floating and spreading out on a different water color background.
+In this code, I use for loops to draw circles with sizes from 10 to 150 and place them at random positions across the canvas. Then I used the RGB functions to give a unique color for each circle. I used the mousePressed function so that each time I click the mouse, the canvas will be redrawn and generate a brand new layout of circles, bringing each version with a different emotional and mood.
+What I enjoyed is that even though the code is simple, the output feels expressive and full of energy, like a trail of rainbow bubbles drifting across the water, bringing out a dreamy atmosphere. 
+I feel fine with using loops and color to create simple art, but I still need more time and practice if I want to make something that is vibrant and more complicated. 
